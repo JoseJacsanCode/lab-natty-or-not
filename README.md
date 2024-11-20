@@ -19,4 +19,4 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Resultado final
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK](https://www.mediafire.com/file/f2e0sg2kzsbg7to/Renovados_pela_Gra%25C3%25A7a-_A_Jornada_de_Alex_e_Helena.pdf/file)
