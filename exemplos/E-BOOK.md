@@ -1,20 +1,16 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 5 páginas explora como a Bíblia pode mudar a vida das pessoas
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Onlyoffice** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" criar uma história sobre um homem chamado Alex que gostava de pregar a Palavra de Deus
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta uma história rica criada apenas em poucas páginas com um prompt
 
-[LINK PARA O E-BOOK AQUI]()
-
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+[LINK PARA O E-BOOK AQUI](https://www.mediafire.com/file/f2e0sg2kzsbg7to/Renovados_pela_Gra%25C3%25A7a-_A_Jornada_de_Alex_e_Helena.pdf/file)
